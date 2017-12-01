@@ -23,6 +23,10 @@ What I am reading
 - https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/
 - https://www.toptal.com/ruby-on-rails/top-10-mistakes-that-rails-programmers-make
 - https://github.com/flyerhzm/rails_best_practices
+- https://stackoverflow.com/questions/tagged/ruby-on-rails
+- https://groups.google.com/forum/#!forum/rubyonrails-talk
+- https://github.com/bbatsov/ruby-style-guide
+- https://github.com/hothero/awesome-rails-gem
 
 ##### Algorithms
 - [The Algorithm Design Manual](http://sist.sysu.edu.cn/~isslxm/DSA/textbook/Skiena.-.TheAlgorithmDesignManual.pdf) by Steven S. Skiena
