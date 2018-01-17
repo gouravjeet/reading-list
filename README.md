@@ -28,6 +28,15 @@ What I am reading
 - https://github.com/bbatsov/ruby-style-guide
 - https://github.com/hothero/awesome-rails-gem
 
+#### Sidekiq
+
+- http://julianee.com/rails-sidekiq-and-heroku/
+- https://github.com/mperham/sidekiq/wiki/Advanced-Options
+- https://sorentwo.com/2016/06/28/effectively-scaling-sidekiq-workers.html
+- https://engineering.hoteltonight.com/interservice-communication-with-sidekiq-remote-workers
+- https://blog.codeship.com/how-to-use-rails-active-job/
+
+
 ##### Algorithms
 - [The Algorithm Design Manual](http://sist.sysu.edu.cn/~isslxm/DSA/textbook/Skiena.-.TheAlgorithmDesignManual.pdf) by Steven S. Skiena
 
