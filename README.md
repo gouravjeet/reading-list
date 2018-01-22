@@ -14,6 +14,9 @@ What I am reading
 
 ### Tech
 
+- Regex playground: https://regex101.com/
+- List of non UTF-8 characters: http://www.cl.cam.ac.uk/~mgk25/ucs/examples/UTF-8-test.txt
+
 #### Rails
 
 - https://pragmaticstudio.com/
